@@ -22,3 +22,21 @@ int menu(void)
 	while (!validamenu(a))
 	return a;
 }
+int main ()
+{
+  int opcion;
+  opcion=menu();
+	switch (opcion)
+	{
+		case 1:
+		break;
+		case 2:
+		break;
+		case 3:
+		break;{
+		}
+		case 4:
+	
+			
+	}
+}
