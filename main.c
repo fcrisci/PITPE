@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "getnum.h"
 #include "valida.h" // biblioteca con funciones valida 
+#include "buttonsAndScissorsBack.h"
 #include <stdlib.h>
 int main ()
 {
