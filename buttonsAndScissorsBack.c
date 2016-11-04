@@ -81,7 +81,7 @@ getdouble(const char mensaje[], ...)
     BORRA_BUFFER;
     return n;
 }
-
+/* Desde aca empieza el backend del programa*/
 /* lee S,s,N, o n  */
 int
 yesNo(const char mensaje[], ...)
