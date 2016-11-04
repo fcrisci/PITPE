@@ -42,7 +42,7 @@ int yesNo(const char mensaje[], ...);
     }
 
 /* Desde aca empieza del programa */
-int validaopcion(int a); // devuelve 1 o 0 para el menu de opciones
+
 
  
 
