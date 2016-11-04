@@ -2,7 +2,6 @@
 #include "buttonsAndScissorsBack.h" // incluimos adentro el "getint.h"
 #include "valida.h> //opcionalmente separamos una biblioteca aparte del backend que se llama valida
 #include <stdlib.h>
-int validaopcion(int a);
 int main ()
 {
     int opcion;
@@ -28,12 +27,7 @@ int main ()
 
     }
 
-    int validaopcion(int a) //ejemplo
-    {
-        if (a<1 || a>4)
-            return 1;
-        return 0;
-    }
+  
 
 }
 
