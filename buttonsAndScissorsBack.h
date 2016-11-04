@@ -1,6 +1,7 @@
 
 #include <stdarg.h>
 /*
+** COPIA DE BIBLIOTECA getnum
 ** Funciones para leer desde la entrada estandar un numero.
 ** Reciben como parametro una cadena de caracteres, la cual puede
 ** contener un formato igual al utilizado por la funcion printf.
@@ -35,5 +36,14 @@ double getdouble(const char mensaje[], ...);
 
 /* lee S,s,N, o n  */
 int yesNo(const char mensaje[], ...);
+
+ int validaopcion(int a) /
+
+    }
+
+/* Desde aca empieza del programa */
+int validaopcion(int a); // devuelve 1 o 0 para el menu de opciones
+
+ 
 
 #endif
