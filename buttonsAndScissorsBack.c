@@ -110,4 +110,4 @@ yesNo(const char mensaje[], ...)
     return strchr("Ss", op) != NULL;
 }
 
-/* Desde aca empieza el backend del programa
+/* Desde aca empieza el backend del programa */
